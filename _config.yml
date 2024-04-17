@@ -22,8 +22,8 @@ title: Gymnastics Coaching Notes
 email: myles@hcg.org.nz
 description: >- # this means to ignore newlines until "baseurl:"
   This is meant to be a way for me to keep all my gymnastics coaching knowledge and research in one space.
-baseurl: "gymnastics" # the subpath of your site, e.g. /blog
-url: "https://mylesglass.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gymnastics" # the subpath of your site, e.g. /blog
+url: "https://mylesglass.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  myles glass
 
 # Build settings
